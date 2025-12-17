@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikonwork&label=Profile%20views&color=0e75b6&style=flat" alt="ritikonwork" /> </p>
 
-- 🔭 I’m currently working on [Attendify](https://github.com/RitikOnWork/Attendify)
 
 - 📫 How to reach me **linkedin.com/in/ritikonwork**
 
