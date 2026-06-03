@@ -1,15 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritik%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a8d8ea" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikonwork-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikonwork)
-[![Email](https://img.shields.io/badge/Email-ritikraj.ai.dev%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ritikraj.ai.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RitikOnWork-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RitikOnWork)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 3rd-year **B.Tech CSE (AI & ML)** student at Sharda University who builds **production-grade intelligent systems** — not just notebooks.
@@ -65,30 +55,6 @@ From NLP-powered documentation assistants to agricultural yield prediction engin
 
 ---
 
-## 🧩 LeetCode Activity
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/RitikOnWork?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/RitikOnWork/)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RitikOnWork&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ritik's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=RitikOnWork&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikOnWork&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Google Arcade Legend 2025** — Earned top-tier recognition in Google's Arcade Facilitator Program
@@ -107,6 +73,15 @@ From NLP-powered documentation assistants to agricultural yield prediction engin
 
 ---
 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikonwork-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikonwork)
+[![Email](https://img.shields.io/badge/Email-ritikraj.ai.dev%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ritikraj.ai.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RitikOnWork-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RitikOnWork)
+
+</div>
+
+---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
