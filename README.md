@@ -71,8 +71,6 @@ From NLP-powered documentation assistants to agricultural yield prediction engin
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/RitikOnWork?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/RitikOnWork/)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=RitikOnWork&theme=dark)](https://leetcode.com/u/RitikOnWork/)
-
 </div>
 
 ---
@@ -83,7 +81,7 @@ From NLP-powered documentation assistants to agricultural yield prediction engin
 
 <img src="https://github-readme-stats.vercel.app/api?username=RitikOnWork&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ritik's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikOnWork&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=RitikOnWork&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikOnWork&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
