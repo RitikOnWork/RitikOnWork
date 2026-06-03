@@ -1,15 +1,30 @@
 <div align="center">
 
+
 ## 👨‍💻 About Me
 
-3rd-year **B.Tech CSE (AI & ML)** student at Sharda University who builds **production-grade intelligent systems** — not just notebooks.
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-From NLP-powered documentation assistants to agricultural yield prediction engines to full-stack HR platforms, I ship end-to-end solutions that solve real problems at scale.
+```yaml
+Name     : Ritik Raj
+Degree   : B.Tech CSE — AI & ML (3rd Year)
+College  : Sharda University, Greater Noida
+Status   : Actively seeking ML Engineer / SDE roles
+```
 
-- 🧠 Specialties: **NLP · Computer Vision · Recommendation Systems · Full-Stack (React + Spring Boot)**
-- 🏆 **Google Arcade Legend 2025** · **Top 50 SIH 2025** · **Top 20 GFG University Ranking**
-- 💡 300+ DSA problems solved across platforms
-- 🎯 Targeting **ML Engineer / SDE** roles where AI meets production systems
+🚀 I build **production-grade intelligent systems** — not just notebooks.
+From NLP pipelines to full-stack platforms, I ship end-to-end solutions
+that solve real problems at scale.
+
+**What I bring to the table:**
+
+&nbsp; 🧠 &nbsp; **AI/ML** — NLP · Computer Vision · Recommendation Systems  
+&nbsp; 🌐 &nbsp; **Full-Stack** — React.js · Spring Boot · FastAPI  
+&nbsp; 🏆 &nbsp; **Achievements** — Google Arcade Legend · Top 50 SIH · Top 20 GFG  
+&nbsp; 💡 &nbsp; **DSA** — 300+ problems solved across platforms  
+&nbsp; 🎯 &nbsp; **Goal** — ML Engineer / SDE roles where AI meets production
+
+<br clear="right"/>
 
 ---
 
@@ -72,16 +87,12 @@ From NLP-powered documentation assistants to agricultural yield prediction engin
 - 🧮 **Complete DSA in C++** — GeeksforGeeks
 
 ---
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikonwork-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikonwork)
 [![Email](https://img.shields.io/badge/Email-ritikraj.ai.dev%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ritikraj.ai.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RitikOnWork-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RitikOnWork)
 
 </div>
 
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
