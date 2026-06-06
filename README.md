@@ -3,19 +3,25 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ritik%20Raj&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=75&descSize=18&descColor=a78bfa" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;Full-Stack%3A+React+%E2%9A%9B%EF%B8%8F+Spring+Boot+%E2%9A%A1+FastAPI;Google+Arcade+Legend+2025+%F0%9F%8F%86;Open+to+ML+Engineer+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
-<!-- Profile Views + Followers -->
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;Full-Stack%3A+React+%E2%9A%9B%EF%B8%8F+%7C+Spring+Boot+%E2%9A%A1+%7C+FastAPI;Google+Arcade+Legend+2025+%F0%9F%8F%86;Open+to+ML+Engineer+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=RitikOnWork&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/RitikOnWork?tab=followers">
   <img src="https://img.shields.io/github/followers/RitikOnWork?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-ML%20Engineer%20%2F%20SDE-a78bfa?style=for-the-badge&labelColor=1e1b4b" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1e1b4b" />
 
 <br/><br/>
 
@@ -23,43 +29,72 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-╔══════════════════════════════════════╗
-║  Name     : Ritik Raj               ║
-║  Degree   : B.Tech CSE — AI & ML    ║
-║             (3rd Year)              ║
-║  College  : Sharda University       ║
-║             Greater Noida           ║
-║  Status   : 🟢 Open to Opportunities ║
-╚══════════════════════════════════════╝
+### 🪪 Identity
+
+| | |
+|---|---|
+| 👤 **Name** | Ritik Raj |
+| 🎓 **Degree** | B.Tech CSE — AI & ML (3rd Year) |
+| 🏛️ **College** | Sharda University, Greater Noida |
+| 📍 **Location** | Greater Noida, India |
+| 💼 **Status** | 🟢 Actively Seeking Opportunities |
+| 📧 **Email** | ritikraj.ai.dev@gmail.com |
+
+<br/>
+
+### 🧭 What I Do
+
+```
+🤖  Train models that go beyond notebooks
+⚡  Build full-stack platforms end-to-end
+📦  Ship production systems that scale
+🔍  Solve real problems with AI at the core
 ```
 
-🚀 I build **production-grade intelligent systems** — not just notebooks.  
-From NLP pipelines to full-stack platforms, I ship end-to-end solutions that solve real problems at scale.
+<br/>
 
-**What I bring to the table:**
+### 🎯 Core Strengths
 
-🧠 &nbsp; **AI/ML** — NLP · Computer Vision · Recommendation Systems  
-🌐 &nbsp; **Full-Stack** — React.js · Spring Boot · FastAPI  
-🏆 &nbsp; **Achievements** — Google Arcade Legend · Top 50 SIH · Top 20 GFG  
-💡 &nbsp; **DSA** — 300+ problems solved across platforms  
-🎯 &nbsp; **Goal** — ML Engineer / SDE roles where AI meets production  
+🧠 &nbsp;**AI/ML** — NLP · CV · Recommendation Systems  
+🌐 &nbsp;**Full-Stack** — React · Spring Boot · FastAPI  
+🏆 &nbsp;**Competitive** — Hackathons · DSA · Open Source  
+🚀 &nbsp;**Goal** — ML Engineer / SDE roles at scale  
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="top">
+
+<br/>
+
+<img alt="Coding GIF" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+<br/><br/>
+
+### 📊 Quick Stats
+
+<img src="https://img.shields.io/badge/Projects-4+%20Production-7c3aed?style=flat-square&labelColor=1e1b4b" /><br/>
+<img src="https://img.shields.io/badge/DSA-300+%20Problems-7c3aed?style=flat-square&labelColor=1e1b4b" /><br/>
+<img src="https://img.shields.io/badge/Hackathons-5+%20Competed-7c3aed?style=flat-square&labelColor=1e1b4b" /><br/>
+<img src="https://img.shields.io/badge/Certs-3%20Completed-7c3aed?style=flat-square&labelColor=1e1b4b" /><br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RitikOnWork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RitikOnWork&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RitikOnWork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikOnWork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikOnWork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=RitikOnWork&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
 ---
@@ -152,6 +187,52 @@ From NLP pipelines to full-stack platforms, I ship end-to-end solutions that sol
 
 ---
 
+## 🐍 Snake Eating My Contributions
+
+> ⚠️ **Setup required** — The snake animation needs a one-time GitHub Actions setup. Follow the steps below, then this section will come alive automatically!
+
+**Step 1 — Create** `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: RitikOnWork
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2 — Run** the action manually once from the Actions tab.
+
+**Step 3 — The snake will appear here automatically after setup:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -167,15 +248,6 @@ From NLP pipelines to full-stack platforms, I ship end-to-end solutions that sol
     <img src="https://img.shields.io/badge/GitHub-RitikOnWork-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RitikOnWork/RitikOnWork/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <br/>
 
